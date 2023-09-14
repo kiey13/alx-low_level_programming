@@ -24,6 +24,5 @@ else
 {
 largest = c;
 }
-/* Return the largest value */
-    return largest;
+ return (largest);
 }
