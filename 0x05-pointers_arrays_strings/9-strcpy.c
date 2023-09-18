@@ -4,6 +4,7 @@
 *_strcpy - function name
 *@dest: function parameter 1
 *@src: parameter 2
+*Return: always 0
 */
 
 char *_strcpy(char *dest, char *src)
